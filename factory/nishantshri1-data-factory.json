@@ -1,0 +1,9 @@
+{
+	"name": "nishantshri1-data-factory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9d2e01a-736d-4fcb-b30e-0f78f36b07d4",
+		"tenantId": "2c69a1da-c040-4f77-83a7-05a545ed634d"
+	}
+}
